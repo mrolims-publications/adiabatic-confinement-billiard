@@ -1,0 +1,7 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+IndentPPDirectives: None
+PPIndentWidth: 4
+SortIncludes: true

@@ -1,6 +1,6 @@
 # adiabatic-confinement-billiard
 
-Code repository accompanying the publication entitled "Adiabatic confinement and escape in an open billiard" by M. R. Sales, L. C. de Souza, R. L. Viana, E. D. Leonel, and I. L. Caldas.
+Code repository accompanying the publication entitled "[Adiabatic confinement and escape in an open billiard](https://arxiv.org/abs/2610.07281)" by M. R. Sales, L. C. de Souza, R. L. Viana, E. D. Leonel, and I. L. Caldas.
 
 This project contains the code to generate and plot the data from all figures. Please keep in mind that some simulations take several days to finish.
 
@@ -165,9 +165,19 @@ Once the data are generated, run the cells under the heading of each figure in `
 
 ## Citation
 
-Our manuscript is currently under review. If you use this repository or parts of it in your work, please consider citing it:
+Our manuscript is currently under review. If you use this repository or parts of it in your work, please consider citing the [arXiv](https://arxiv.org/abs/2610.07281) version:
 
-_M. R. Sales, L. C. de Souza, R. L. Viana, E. D. Leonel, and I. L. Caldas_, **Adiabatic confinement and escape in an open billiard** (under review).
+```text
+@misc{sales2026adiabaticconfinementescapeopen,
+      title={Adiabatic confinement and escape in an open billiard}, 
+      author={Matheus Rolim Sales and Leonardo Costa de Souza and Ricardo Luiz Viana and Edson Denis Leonel and Iberê Luiz Caldas},
+      year={2026},
+      eprint={2610.07281},
+      archivePrefix={arXiv},
+      primaryClass={nlin.CD},
+      url={https://arxiv.org/abs/2610.07281}, 
+}
+```
 
 ## Contact
 
